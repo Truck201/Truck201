@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joaquín Alejandro Gandini
+- 👋 Hi, I’m Joaquín Alejandro Gandini @truck201
 - 👀 I'm interested in video games, art, and web design
 - 🌱 I am currently learning Video Game Production and Digital Entertainment at the University of Rafaela.
 - 💞️ I’m looking to collaborate in production of a video game
