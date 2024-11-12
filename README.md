@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **joaquingandini22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaquin gandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin gandini" height="30" width="40" /></a>
@@ -22,8 +20,8 @@
 
 
 -> Contact me in 
-    Whatsapp: 03496-449978
-    Gmail: joaquingandini22@gmail.com
+-  Whatsapp: 03496-449978
+-  Gmail: joaquingandini22@gmail.com
 
 <!---
 Truck201/Truck201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
